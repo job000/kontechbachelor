@@ -1,0 +1,4 @@
+/Users/johnmichaelobligar/Downloads/AdvancedHMIv399x (1)/AdvancedHMIDrivers/obj/Debug/AdvancedHMIDrivers.vbprojResolveAssemblyReference.cache
+/Users/johnmichaelobligar/Downloads/AdvancedHMIv399x (1)/AdvancedHMIDrivers/obj/Debug/AdvancedHMIDrivers.Resources.resources
+/Users/johnmichaelobligar/Downloads/AdvancedHMIv399x (1)/AdvancedHMIDrivers/obj/Debug/AdvancedHMIDrivers.vbproj.GenerateResource.Cache
+/Users/johnmichaelobligar/Downloads/AdvancedHMIv399x (1)/AdvancedHMIDrivers/obj/Debug/AdvancedHMIDrivers.vbproj.CoreCompileInputs.cache
