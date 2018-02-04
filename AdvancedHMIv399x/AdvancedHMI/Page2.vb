@@ -2,6 +2,7 @@
     '*******************************************************************************
     '* Stop polling when the form is not visible in order to reduce communications
     '* Copy this section of code to every new form created
+    ' Hello My name is John
     '*******************************************************************************
     Private NotFirstShow As Boolean
 
